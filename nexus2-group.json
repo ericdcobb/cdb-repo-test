@@ -1,0 +1,127 @@
+{
+  "maintainers": [
+    {
+      "name": "admin",
+      "email": "my@email.com"
+    }
+  ],
+  "dist-tags": {
+    "latest": "0.0.84"
+  },
+  "versions": {
+    "0.0.84": {
+      "name": "cdb",
+      "version": "0.0.84",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC",
+      "publishConfig": {
+        "registry": "http://localhost:8081/nexus/content/repositories/npm-hosted-2/"
+      },
+      "gitHead": "612d94be3cbb4e20a165903c303905cb74e3c068",
+      "readme": "ERROR: No README data found!",
+      "_id": "cdb@0.0.84",
+      "_shasum": "e67834bad04eff0650c9d65f2e550582ff71d69b",
+      "_from": ".",
+      "_npmVersion": "2.15.9",
+      "_nodeVersion": "4.5.0",
+      "_npmUser": {
+        "name": "admin",
+        "email": "my@email.com"
+      },
+      "maintainers": [
+        {
+          "name": "admin",
+          "email": "my@email.com"
+        }
+      ],
+      "dist": {
+        "shasum": "e67834bad04eff0650c9d65f2e550582ff71d69b",
+        "tarball": "http://localhost:8081/nexus/content/groups/npm-group/cdb/-/cdb-0.0.84.tgz"
+      }
+    },
+    "0.0.2": {
+      "name": "cdb",
+      "version": "0.0.2",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC",
+      "publishConfig": {
+        "registry": "http://localhost:8081/nexus/content/repositories/npm-hosted/"
+      },
+      "readme": "ERROR: No README data found!",
+      "_id": "cdb@0.0.2",
+      "_shasum": "880fc221ab90aaa5117493fad3083ad2fcec3b18",
+      "_from": ".",
+      "_npmVersion": "2.15.9",
+      "_nodeVersion": "4.5.0",
+      "_npmUser": {
+        "name": "admin",
+        "email": "my@email.com"
+      },
+      "maintainers": [
+        {
+          "name": "admin",
+          "email": "my@email.com"
+        }
+      ],
+      "dist": {
+        "shasum": "880fc221ab90aaa5117493fad3083ad2fcec3b18",
+        "tarball": "http://localhost:8081/nexus/content/groups/npm-group/cdb/-/cdb-0.0.2.tgz"
+      }
+    },
+    "0.0.3": {
+      "name": "cdb",
+      "version": "0.0.3",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC",
+      "publishConfig": {
+        "registry": "http://localhost:8081/nexus/content/repositories/npm-hosted/"
+      },
+      "gitHead": "b056815e3ed42189d3a43ac118b2d72c148ef02d",
+      "readme": "ERROR: No README data found!",
+      "_id": "cdb@0.0.3",
+      "_shasum": "18037474381a99bcb40093fb8f809e479bcd948d",
+      "_from": ".",
+      "_npmVersion": "2.15.9",
+      "_nodeVersion": "4.5.0",
+      "_npmUser": {
+        "name": "admin",
+        "email": "my@email.com"
+      },
+      "maintainers": [
+        {
+          "name": "admin",
+          "email": "my@email.com"
+        }
+      ],
+      "dist": {
+        "shasum": "18037474381a99bcb40093fb8f809e479bcd948d",
+        "tarball": "http://localhost:8081/nexus/content/groups/npm-group/cdb/-/cdb-0.0.3.tgz"
+      }
+    }
+  },
+  "name": "cdb",
+  "description": "",
+  "readme": "ERROR: No README data found!",
+  "time": {
+    "created": "2016-10-24T22:04:31.501Z",
+    "modified": "2016-10-24T22:05:26.926Z",
+    "0.0.84": "2016-10-24T22:09:14.917Z",
+    "0.0.2": "2016-10-24T22:04:31.501Z",
+    "0.0.3": "2016-10-24T22:05:26.926Z"
+  }
+}
