@@ -1,6 +1,6 @@
 {
   "name": "cdb",
-  "version": "0.0.3",
+  "version": "0.0.84",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig" : {
-    "registry" : "http://localhost:8081/nexus/content/repositories/npm-hosted/"
+    "registry" : "http://localhost:8081/nexus/content/repositories/npm-hosted-2/"
   }
 }
